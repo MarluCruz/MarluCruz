@@ -4,6 +4,13 @@
 - 📫 How to reach me:
     * marlusgabrielsilvacruz@gmail.com
     * [Linkedin] (https://www.linkedin.com/in/marlus-cruz-43b765237/)
+
+<div align="center">
+  <a href="https://github.com/MarluCruz">
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarluCruz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarluCruz&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
 <!--
 **MarluCruz/MarluCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
