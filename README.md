@@ -10,7 +10,11 @@
   <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarluCruz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarluCruz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-
+<div>
+ <h4>Platforms and OS:</h4>
+ <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+</div>
 <!--
 **MarluCruz/MarluCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
