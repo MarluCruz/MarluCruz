@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to my profile! I'm Marlus Cruz. a student of Analitic and Development of Systems!
+- 👋 Hi, welcome to my profile! I'm Marlus Cruz, a student of Analitic and Development of Systems!
 - 🌱 I’m currently learning about Python, JavaScript, Data Structures and OOP at Unijorge and a lot of any other places
 - 👀 I'm looking for every time for any knowledge and advice that can help me improve my professional skillset.
 - 📫 How to reach me:
