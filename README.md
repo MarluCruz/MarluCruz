@@ -5,15 +5,25 @@
     * marlusgabrielsilvacruz@gmail.com
     * [Linkedin] (https://www.linkedin.com/in/marlus-cruz-43b765237/)
 
-<div align="center">
+
+   <div align="center">
   <a href="https://github.com/MarluCruz">
   <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarluCruz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarluCruz&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-<div>
- <h4>Platform:</h4>
- <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-</div>
+   </div>
+
+   <div>
+      <h4>Platform:</h4>
+         <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   </div>
+
+   <div>
+   <h4>Languages and Tools:</h4>
+      <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img withd="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
+   </div>
+
 <!--
 **MarluCruz/MarluCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
