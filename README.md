@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning about Python, JavaScript, Data Structures and OOP at Unijorge and a lot of any other places
 - 👀 I'm looking for every time for any knowledge and advice that can help me improve my professional skillset.
 - 📫 How to reach me:
-    * <a href=marlusgabrielsilvacruz@gmail.com target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/marlus-cruz-43b765237/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+    * <a href=mailto:marlusgabrielsilvacruz@gmail.com target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/marlus-cruz-43b765237/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 
    <div align="center">
