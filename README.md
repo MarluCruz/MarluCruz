@@ -3,7 +3,7 @@
 - 👀 I'm looking for every time for any knowledge and advice that can help me improve my professional skillset.
 - 📫 How to reach me:
     * marlusgabrielsilvacruz@gmail.com
-    * [Linkedin] (https://www.linkedin.com/in/marlus-cruz-43b765237/)
+    * <a href="https://www.linkedin.com/in/marlus-cruz-43b765237/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 
    <div align="center">
